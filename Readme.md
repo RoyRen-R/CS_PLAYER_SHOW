@@ -5,4 +5,4 @@
 ## resources存放资源文件
 ## SQL存放有关调用数据库的文件
 ### host,user,password等信息需要在configure.py文件中配置
-### UI存放窗口的界面文件
+## UI存放窗口的界面文件
