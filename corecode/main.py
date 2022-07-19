@@ -7,10 +7,9 @@ from Model.Rating import predict
 import cv2
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
-from PyQt5 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui,QtWidgets
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import *
-from pyqt5_plugins.examplebutton import QtWidgets
 from sklearn import preprocessing
 
 from SQL import SQL_name,SQL_player_data
